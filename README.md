@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Shah</h1>
 <h3 align="center">An Undergrad Student from Nepal. Just a beginner in Coding World.</h3>
 
-- 🌱 I’m currently learning **Phython, Web Development**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **adityakshah69@gmail.com**
 
